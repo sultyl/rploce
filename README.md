@@ -1,3 +1,26 @@
+# Canvas Application
+
+This is a basic canvas application for the r/place-like canvas challenge.
+
+## Installation
+
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Start the server using `npm run dev`.
+4. Open the website in your browser.
+
+## Usage
+
+- Click on a cell to select it.
+- Use the color picker to change the cell's color.
+- ...
+
+## Author
+
+- Sultan Adeleke
+
+
+
 # r/ploce
 
 # Setup
